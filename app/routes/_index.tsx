@@ -23,6 +23,11 @@ export default function Index() {
                         <img
                             src="/a2.png"
                             alt="Remix"
+                            className="block w-full dark:hidden"
+                        />
+                        <img
+                            src="/a2.png"
+                            alt="Remix"
                             className="hidden w-full dark:block"
                         />
                     </div>
