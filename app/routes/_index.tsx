@@ -21,11 +21,6 @@ export default function Index() {
                 <header className="flex flex-col items-center gap-9 ">
                     <div className="max-w-[720px]">
                         <img
-                            src="/logo-light.png"
-                            alt="Remix"
-                            className="block w-full dark:hidden"
-                        />
-                        <img
                             src="/a2.png"
                             alt="Remix"
                             className="hidden w-full dark:block"
